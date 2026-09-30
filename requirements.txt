@@ -1,0 +1,5 @@
+audio8-asr-infinite @ git+https://github.com/Edge0-AI/Audio8-ASR-Infinite.git
+librosa>=0.11
+ipykernel
+nbformat
+nbconvert

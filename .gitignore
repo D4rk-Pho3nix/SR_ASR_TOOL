@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+Audio8-ASR-Infinite/.git/
+Audio8-ASR-Infinite/.git_aside/
